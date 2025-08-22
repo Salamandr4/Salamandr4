@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <b><code>VC_3DStyle (3D Designer/Game Designer/Graphic Designer)</code></b>
+  <b><code>VC_3DStyle (3D Designer/Game Designer/Graphic Designer/Dveloper)</code></b>
 </p>
 
 ---
@@ -18,52 +18,94 @@
 </p>
 
 ---
+
 <!-- Custom Icon Designed by myself -->
 ## <img align="bottom" alt="NetworkIcon" width="60px" src="assets/NetworkIcon-teste.svg" /> Let’s link up
 
-<a href="https://www.linkedin.com/in/vinicius-campacci/" target="_blank">
-  <img alt="LinkedIn" width="40" src="assets/icons8-linkedin.svg" />
-</a>
-<a href="https://www.behance.net/viniciucampacci" target="_blank">
-  <img alt="Behance" width="40" src="assets/icons8-behance.svg" />
-</a>
-<a href="https://www.artstation.com/viniciuscampacci" target="_blank">
-  <img alt="Artstation" width="40" src="assets/icons8-artstation.svg" />
-</a>
-<a href="https://steamcommunity.com/id/joseph91771/" target="_blank">
-  <img alt="Steam" width="40" src="assets/icons8-steam.svg" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vinicius-campacci/" target="_blank">
+    <img alt="LinkedIn" width="40" src="assets/icons8-linkedin.svg" /></a>
+  <a href="https://www.behance.net/viniciucampacci" target="_blank">
+    <img alt="Behance" width="40" src="assets/icons8-behance.svg" /></a>
+  <a href="https://www.artstation.com/viniciuscampacci" target="_blank">
+    <img alt="Artstation" width="40" src="assets/icons8-artstation.svg" /></a>
+  <a href="https://steamcommunity.com/id/joseph91771/" target="_blank">
+    <img alt="Steam" width="40" src="assets/icons8-steam.svg" /></a>
+</p>
 
----
+#
+
 <!-- Custom Icon Designed by myself -->
 ## <img align="bottom" alt="NetworkIcon" width="60px" src="assets/Tools-Icon.svg" /> Languages and Tools
 
-<!-- All Dark mode card -->
-<img align="left" alt="HTML5" style="padding-right:10px;" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white#gh-dark-mode-only" />
-<img align="left" alt="CSS" style="padding-right:10px;" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white#gh-dark-mode-only" />
-<img align="left" alt="Lua" style="padding-right:10px;" src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=white#gh-dark-mode-only" />
-<img align="left" alt="C" style="padding-right:10px;" src="https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&logoColor=white#gh-dark-mode-only" />
-<img align="left" alt="Unreal" style="padding-right:10px;" src="https://img.shields.io/badge/Unreal-0D1117?style=for-the-badge&logo=unrealengine&logoColor=white#gh-dark-mode-only" />
-<img align="left" alt="Unity" style="padding-right:10px;" src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white#gh-dark-mode-only" />
-<img align="left" alt="Adobe" style="padding-right:10px;" src="https://img.shields.io/badge/Adobe-0D1117?style=for-the-badge&logo=adobe&logoColor=white#gh-dark-mode-only" />
-<img align="left" alt="Autodesk" style="padding-right:10px;" src="https://img.shields.io/badge/Autodesk-0D1117?style=for-the-badge&logo=autodesk&logoColor=white#gh-dark-mode-only" />
-<img align="left" alt="Blender" style="padding-right:10px;" src="https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=Blender&logoColor=white#gh-dark-mode-only" />
 
+<!-- Dark and Light mode badges -->
+<!-- HTML5 -->
+<picture>
+  <source srcset="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=black" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="padding-right:10px;" />
+</picture>
 
-<!-- All Light mode card -->
-<img align="left" alt="HTML5" style="padding-right:10px;" src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=black#gh-light-mode-only" />
-<img align="left" alt="CSS" style="padding-right:10px;" src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=black#gh-light-mode-only" />
-<img align="left" alt="Lua" style="padding-right:10px;" src="https://img.shields.io/badge/Lua-ffffff?style=for-the-badge&logo=lua&logoColor=black#gh-light-mode-only"/>
-<img align="left" alt="C" style="padding-right:10px;" src="https://img.shields.io/badge/c-ffffff?style=for-the-badge&logo=c&logoColor=black#gh-light-mode-only" />
-<img align="left" alt="Unreal" style="padding-right:10px;" src="https://img.shields.io/badge/Unreal-ffffff?style=for-the-badge&logo=unrealengine&logoColor=black#gh-light-mode-only" />
-<img align="left" alt="Unity" style="padding-right:10px;" src="https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=black#gh-light-mode-only" />
-<img align="left" alt="Adobe" style="padding-right:10px;" src="https://img.shields.io/badge/Adobe-ffffff?style=for-the-badge&logo=adobe&logoColor=black#gh-light-mode-only" />
-<img align="left" alt="Autodesk" style="padding-right:10px;" src="https://img.shields.io/badge/Autodesk-ffffff?style=for-the-badge&logo=autodesk&logoColor=black#gh-light-mode-only" />
-<img align="left" alt="Blender" style="padding-right:10px;" src="https://img.shields.io/badge/Blender-ffffff?style=for-the-badge&logo=Blender&logoColor=black#gh-light-mode-only" />
+<!-- CSS3 -->
+<picture>
+  <source srcset="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=black" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="padding-right:10px;" />
+</picture>
 
+<!-- Lua -->
+<picture>
+  <source srcset="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=white" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://img.shields.io/badge/Lua-ffffff?style=for-the-badge&logo=lua&logoColor=black" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" style="padding-right:10px;" />
+</picture>
+
+<!-- C -->
+<picture>
+  <source srcset="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=black" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white" alt="C" style="padding-right:10px;" />
+</picture>
+
+<!-- Unreal -->
+<picture>
+  <source srcset="https://img.shields.io/badge/Unreal-0D1117?style=for-the-badge&logo=unrealengine&logoColor=white" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://img.shields.io/badge/Unreal-ffffff?style=for-the-badge&logo=unrealengine&logoColor=black" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://img.shields.io/badge/Unreal-0D1117?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal" style="padding-right:10px;" />
+</picture>
+
+<!-- Unity -->
+<picture>
+  <source srcset="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=black" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" style="padding-right:10px;" />
+</picture>
+
+<!-- Adobe -->
+<picture>
+  <source srcset="https://img.shields.io/badge/Adobe-0D1117?style=for-the-badge&logo=adobe&logoColor=white" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://img.shields.io/badge/Adobe-ffffff?style=for-the-badge&logo=adobe&logoColor=black" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://img.shields.io/badge/Adobe-0D1117?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" style="padding-right:10px;" />
+</picture>
+
+<!-- Autodesk -->
+<picture>
+  <source srcset="https://img.shields.io/badge/Autodesk-0D1117?style=for-the-badge&logo=autodesk&logoColor=white" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://img.shields.io/badge/Autodesk-ffffff?style=for-the-badge&logo=autodesk&logoColor=black" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://img.shields.io/badge/Autodesk-0D1117?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk" style="padding-right:10px;" />
+</picture>
+
+<!-- Blender -->
+<picture>
+  <source srcset="https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=Blender&logoColor=white" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://img.shields.io/badge/Blender-ffffff?style=for-the-badge&logo=Blender&logoColor=black" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=Blender&logoColor=white" alt="Blender" style="padding-right:10px;" />
+</picture>
 <!-- Credits to img.shield.io for the badge -->
 
----
+#
+
 <!-- Custom Icon Designed by myself -->
 ## <img align="bottom" alt="NetworkIcon" width="60px" src="assets/Stats-Icon.svg" /> GitHub Stats
 
