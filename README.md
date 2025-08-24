@@ -110,9 +110,9 @@
 ## <img align="bottom" alt="NetworkIcon" width="60px" src="assets/Stats-Icon.svg" /> GitHub Stats
 
 <!-- Dark mode card -->
-![Salamandr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salamandr4&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&bg_color=00000000#gh-dark-mode-only)
+[![Salamandr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salamandr4&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/Salamandr4/github-readme-stats#gh-dark-mode-only)
 
 <!-- Light mode card -->
-![Salamandr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salamandr4&theme=default&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&bg_color=ffffff&title_color=0D1117&text_color=0D1117&icon_color=0D1117#gh-light-mode-only)
+[![Salamandr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salamandr4&theme=default&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&bg_color=ffffff&title_color=0D1117&text_color=0D1117&icon_color=0D1117#gh-light-mode-only)](https://github.com/Salamandr4/github-readme-stats#gh-light-mode-only)
 
 <!-- Credits to GitHub Readme Stats for the stats panels-->
